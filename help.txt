@@ -1,0 +1,5 @@
+Help text install
+and 
+configuratin 
+Git 
+push
