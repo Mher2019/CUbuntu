@@ -1,6 +1,4 @@
-Help text install
-and 
-configuratin 
-Git 
-push
-helpppppp
+Install git in Ubuntu /*****
+
+And write program in C
+****/
